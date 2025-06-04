@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-javascript
+```javascript
 const developer = {
   name: "Benara",
   focus: ["Full Stack Development"],
@@ -26,6 +26,9 @@ const developer = {
   currentLearning: "MERN Stack",
   funFact: "I debug with console.log and refuse to admit it"
 };
+```
+
+<br>
 
 <!-- 📊 GitHub Statistics -->
 <table align="center">
@@ -95,6 +98,8 @@ JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░
 <!-- (You can add your own tech stack icons here if needed) -->
 
 <!-- 🌐 Connect with me -->
+
+```
 <div align="center">
   <h3>🌐 Connect with me</h3>
   <a href="https://linkedin.com/in/dasun-weerakoon" target="_blank">
@@ -116,11 +121,11 @@ JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
 </div>
-
+```
 <!-- 📫 Contact -->
 <div align="center">
   <h3>📫 Contact</h3>
-  <a href="mailto:da12345sun@gmail.com">
+  <a href="mailto:benaragunaweera@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
