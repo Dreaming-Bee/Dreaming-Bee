@@ -1,0 +1,11 @@
+{
+  "name": "car-contribution-graph",
+  "version": "1.0.0",
+  "description": "Generate a GitHub-style contribution graph with a car animation",
+  "main": "generate-car-svg.js",
+  "scripts": {
+    "generate-car-svg": "node generate-car-svg.js"
+  },
+  "author": "YourName",
+  "license": "MIT"
+}
