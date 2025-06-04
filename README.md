@@ -20,6 +20,13 @@
 
 ## 🌐 The Benara Universe
 
+## 🌐 The Benara Universe
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="150" alt="Animated Universe" />
+</div>
+
+
 ```javascript
 const benara = {
   title: "Builder of Digital Dreams 🧠✨",
