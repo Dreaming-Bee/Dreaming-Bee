@@ -119,18 +119,6 @@ Weekly Activity:
 
 ---
 
-## 🚗 Contribution Graph
-<div align="center">
-  <img src="https://github.com/dasunmihiranga/dasunmihiranga/blob/output/github-car-dark.svg" alt="Car animation" />
-</div>
-
-<div align="center">
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</div>
-
----
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+visiting!+✌️" />
 </h3>
